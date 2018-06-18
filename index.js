@@ -5,7 +5,7 @@ const {races} = require('./races')
 const {users} = require('./users')
 
 const AUTH_URL = `${WS_URL}/auth/local`;
-const EVENTS_URL = `${WS_URL}/api/v2/events`;
+const RACE_URL = `${WS_URL}/api/v2/races`;
 const TOKEN_PREFIX = 'Bearer ';
 
 function getUsersWithTokens(users){
@@ -23,19 +23,30 @@ function getUsersWithTokens(users){
 	}));
 }
 
+const getAuthorizationHeaderForUser = userWithToken => ({
+	Authorization: `${TOKEN_PREFIX}${userWithToken.token}`
+});
+
+function getRacesDetails(raceIds, userWithToken){
+	const headers = getAuthorizationHeaderForUser(userWithToken);
+	return q.all(raceIds.map(raceId => {
+		return axios.get(`${RACE_URL}/${raceId}`, {headers})
+			.then(({status, data}) => status === 200 && data)
+			.then(raceData => raceData && axios.get(`${RACE_URL}/${raceId}/track`, {headers})
+				.then(({status, data}) => status === 200 && ({...raceData, ...data}))
+			);
+	}));
+}
+
 getUsersWithTokens(users)
 	.then(usersWithTokens => {
-		console.log(JSON.stringify(usersWithTokens))
+		if(usersWithTokens.length && usersWithTokens[0].token){
+			return getRacesDetails(races, usersWithTokens[0]);
+		}
 
-		return axios.get(EVENTS_URL, {
-			headers: {
-				Authorization: `${TOKEN_PREFIX}${usersWithTokens[0].token}`
-			}
-		});
+		return null;
 	})
-	.then(({status, data}) => {
-		console.log(`got events response with status ${status}`);
-		console.log(JSON.stringify(data));
+	.then(racesWithDetails => {
 		process.exit(0);
 	})
 	.catch(error => {
