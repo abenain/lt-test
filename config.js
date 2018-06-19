@@ -1,5 +1,11 @@
 const WS_URL = 'http://localhost:9000';
+const USER_REPORT_PERIOD_MS = 6 * 1000;
+const NB_CONCURRENT_POS_REPORT = 25;
+const TEST_DURATION_MS = 10 * 60 * 1000;
 
 module.exports = {
 	WS_URL,
+	USER_REPORT_PERIOD_MS,
+	NB_CONCURRENT_POS_REPORT,
+	TEST_DURATION_MS,
 };

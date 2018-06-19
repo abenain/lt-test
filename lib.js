@@ -1,6 +1,6 @@
 const axios = require('axios');
 
-const {WS_URL} = require('./config');
+const {WS_URL, USER_REPORT_PERIOD_MS, NB_CONCURRENT_POS_REPORT} = require('./config');
 const AUTH_URL = `${WS_URL}/auth/local`;
 const RACE_URL = `${WS_URL}/api/v2/races`;
 const TOKEN_PREFIX = 'Bearer ';
@@ -46,6 +46,28 @@ function getDetailedUsersAndRaces(userCredentials, raceIds){
 		});
 }
 
+function getInitialUsersInRacesStatus(users, races){
+	const usersInRacesStatus = {};
+	users.forEach(user => {
+		usersInRacesStatus[user.email] = {
+			email: user.email,
+			id: user._id,
+			races: races.map(race => ({
+				id: race._id,
+				name: race.name,
+				index: 0,
+			}))
+		};
+	});
+	return usersInRacesStatus;
+}
+
+const getUserTimer = userInRaces => setInterval(() => {
+	console.log(`sending ${NB_CONCURRENT_POS_REPORT} pos for user ${userInRaces.email}`);
+}, USER_REPORT_PERIOD_MS);
+
 module.exports = {
 	getDetailedUsersAndRaces,
+	getInitialUsersInRacesStatus,
+	getUserTimer,
 };
