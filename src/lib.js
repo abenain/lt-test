@@ -1,4 +1,8 @@
 const axios = require('axios')
+const fs = require('fs')
+const path = require('path')
+const querystring = require('querystring')
+
 
 const {WS_URL, USER_REPORT_PERIOD_MS, NB_CONCURRENT_POS_REPORT, PAGE_REFRESH_PERDIOD_MS, NB_CONCURRENT_COMPETITORS_QUERIED} = require('../config/config')
 
@@ -234,6 +238,35 @@ const enrollCompetitorsInRace = (userCredentials, raceId, competitors) => {
 	return Promise.all(competitors.map(competitor => enrollCompetitorInRace(userCredentials, raceId, competitor)))
 }
 
+const TRACK_FILENAME = 'LIWA 2016 100 K_corrected.gpx'
+const uploadTrackFileToRace = (userCredentials, raceId) => {
+	return new Promise((resolve, reject) => {
+		fs.readFile(path.join(__dirname, '..', 'resources', TRACK_FILENAME), {encoding: 'utf8'}, (err, data) => {
+			if(err){
+				return reject(err);
+			}
+
+			return resolve(data)
+		})
+	}).then(data => {
+		return getUsersWithTokens([userCredentials])
+			.then(users => users && users.length && users[0])
+			.then(userWithToken => {
+				const form = querystring.stringify({
+					contents: data,
+					filename: TRACK_FILENAME
+				})
+				const headers = {
+					...getAuthorizationHeaderForUser(userWithToken),
+					'content-type': 'application/x-www-form-urlencoded'
+				}
+				return axios.post(`${RACE_URL}/${raceId}/track`, form, {headers})
+			})
+	})
+}
+
+
+
 module.exports = {
 	getDetailedUsersAndRaces,
 	getInitialUsersInRacesStatus,
@@ -242,5 +275,6 @@ module.exports = {
 	getCompetitorTimer,
 	getViewerTimer,
 	createRace,
-	enrollCompetitorsInRace
+	enrollCompetitorsInRace,
+	uploadTrackFileToRace
 }

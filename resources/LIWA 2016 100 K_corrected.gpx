@@ -1,0 +1,1153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="MapSource 6.16.3" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2016-01-27T16:58:06Z</time>
+    <bounds maxlat="23.045868845656514" maxlon="53.794683320447803" minlat="22.850783318281174" minlon="53.454808294773102"/>
+  </metadata>
+
+  <wpt lat="22.977616684511304" lon="53.793216655030847">
+    <ele>63</ele>
+    <time>2015-02-01T06:46:27Z</time>
+    <name>001 DEPART</name>
+    <sym>Flag</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="22.971088103950024" lon="53.792280564084649">
+    <ele>63</ele>
+    <time>2015-02-01T06:46:27Z</time>
+    <name>002</name>
+    <sym>Flag, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="22.968246303498745" lon="53.775581968948245">
+    <ele>64</ele>
+    <time>2015-02-01T06:46:27Z</time>
+    <name>003</name>
+    <sym>Flag, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="22.961372388526797" lon="53.771829642355442">
+    <ele>146</ele>
+    <time>2015-02-01T06:46:27Z</time>
+    <name>004</name>
+    <sym>Flag, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="22.932287603616714" lon="53.752663917839527">
+    <ele>179</ele>
+    <time>2015-02-01T06:46:27Z</time>
+    <name>005</name>
+    <sym>Flag, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="22.909592427313328" lon="53.738009501248598">
+    <ele>112</ele>
+    <time>2015-02-01T06:46:27Z</time>
+    <name>006</name>
+    <sym>Flag, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="22.900008894503117" lon="53.731532720848918">
+    <ele>82</ele>
+    <time>2015-02-01T06:46:27Z</time>
+    <name>007</name>
+    <sym>Flag, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="22.895333804190159" lon="53.716894313693047">
+    <ele>90</ele>
+    <time>2015-02-01T06:46:27Z</time>
+    <name>008</name>
+    <sym>Flag, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="22.881546914577484" lon="53.710936876013875">
+    <ele>139</ele>
+    <time>2015-02-01T06:46:27Z</time>
+    <name>009</name>
+    <sym>Flag, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="22.863333374261856" lon="53.690016651526093">
+    <ele>101</ele>
+    <time>2015-02-01T06:46:27Z</time>
+    <name>010 PC 1</name>
+    <sym>Flag, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="22.865183763206005" lon="53.652829583734274">
+    <ele>81</ele>
+    <time>2015-02-01T06:46:27Z</time>
+    <name>011</name>
+    <sym>Flag, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="22.863114774227142" lon="53.621294014155865">
+    <ele>88</ele>
+    <time>2015-02-01T06:46:27Z</time>
+    <name>012</name>
+    <sym>Flag, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="22.861751625314355" lon="53.576653925701976">
+    <ele>86</ele>
+    <time>2015-02-01T06:46:27Z</time>
+    <name>013</name>
+    <sym>Flag, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="22.857289183884859" lon="53.558121873065829">
+    <ele>192</ele>
+    <time>2015-02-01T06:46:27Z</time>
+    <name>014</name>
+    <sym>Flag, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="22.855454133823514" lon="53.552954429760575">
+    <ele>188</ele>
+    <time>2015-02-01T06:46:27Z</time>
+    <name>015</name>
+    <sym>Flag, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="22.850783318281174" lon="53.541050031781197">
+    <ele>102</ele>
+    <time>2015-02-01T06:46:27Z</time>
+    <name>016  PC 2</name>
+    <sym>Flag, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="22.858856348320842" lon="53.53270199149847">
+    <ele>98</ele>
+    <time>2015-02-01T06:46:27Z</time>
+    <name>017</name>
+    <sym>Flag, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="22.862529214471579" lon="53.520920807495713">
+    <ele>110</ele>
+    <time>2015-02-01T06:46:27Z</time>
+    <name>018</name>
+    <sym>Flag, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="22.866569375619292" lon="53.513607094064355">
+    <ele>99</ele>
+    <time>2015-02-01T06:46:27Z</time>
+    <name>019</name>
+    <sym>Flag, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="22.87932344712317" lon="53.510876521468163">
+    <ele>98</ele>
+    <time>2015-02-01T06:46:27Z</time>
+    <name>020</name>
+    <sym>Flag, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="22.895023841410875" lon="53.513392517343163">
+    <ele>102</ele>
+    <time>2015-02-01T06:46:27Z</time>
+    <name>021</name>
+    <sym>Flag, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="22.911366624757648" lon="53.494338942691684">
+    <ele>96</ele>
+    <time>2015-02-01T06:46:27Z</time>
+    <name>022</name>
+    <sym>Flag, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="22.911008885130286" lon="53.45538136549294">
+    <ele>92</ele>
+    <time>2015-02-01T06:46:27Z</time>
+    <name>023  BALISE 1</name>
+    <sym>Flag, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="22.913734093308449" lon="53.4551693033427">
+    <ele>157</ele>
+    <time>2015-02-01T06:46:27Z</time>
+    <name>024</name>
+    <sym>Flag, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="22.938038678839803" lon="53.454808294773102">
+    <ele>94</ele>
+    <time>2015-02-01T06:46:27Z</time>
+    <name>025</name>
+    <sym>Flag, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="22.94551600702107" lon="53.457937845960259">
+    <ele>119</ele>
+    <time>2015-02-01T06:46:27Z</time>
+    <name>026</name>
+    <sym>Flag, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="22.958069248124957" lon="53.495975090190768">
+    <ele>94</ele>
+    <time>2015-02-01T06:46:27Z</time>
+    <name>027</name>
+    <sym>Flag, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="22.9644166957587" lon="53.498952426016331">
+    <ele>112</ele>
+    <time>2015-02-01T06:46:27Z</time>
+    <name>028</name>
+    <sym>Flag, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="22.965524448081851" lon="53.517104359343648">
+    <ele>94</ele>
+    <time>2015-02-01T06:46:27Z</time>
+    <name>029</name>
+    <sym>Flag, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="22.974414378404617" lon="53.528103595599532">
+    <ele>95</ele>
+    <time>2015-02-01T06:46:27Z</time>
+    <name>030</name>
+    <sym>Flag, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="22.977216700091958" lon="53.528816644102335">
+    <ele>130</ele>
+    <time>2015-02-07T04:39:48Z</time>
+    <name>031  PC 3</name>
+    <sym>Flag, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="22.989637674763799" lon="53.549343589693308">
+    <ele>95</ele>
+    <time>2015-02-01T06:46:27Z</time>
+    <name>032</name>
+    <sym>Flag, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="23.009883910417557" lon="53.569929962977767">
+    <ele>101</ele>
+    <time>2015-02-01T06:46:27Z</time>
+    <name>033</name>
+    <sym>Flag, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="23.021155390888453" lon="53.584110047668219">
+    <ele>96</ele>
+    <time>2015-02-01T06:46:27Z</time>
+    <name>034</name>
+    <sym>Flag, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="23.035763036459684" lon="53.622848941013217">
+    <ele>126</ele>
+    <time>2015-02-01T06:46:27Z</time>
+    <name>035</name>
+    <sym>Flag, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="23.035462209954858" lon="53.625294864177704">
+    <ele>98</ele>
+    <time>2015-02-01T06:46:27Z</time>
+    <name>036</name>
+    <sym>Flag, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="23.045868845656514" lon="53.65484937094152">
+    <ele>132</ele>
+    <time>2015-02-01T06:46:27Z</time>
+    <name>037</name>
+    <sym>Flag, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="23.043280765414238" lon="53.660841593518853">
+    <ele>93</ele>
+    <time>2015-02-01T06:46:27Z</time>
+    <name>038</name>
+    <sym>Flag, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="23.027966693043709" lon="53.674769969657063">
+    <ele>118</ele>
+    <time>2015-02-01T06:46:27Z</time>
+    <name>039  PC 4</name>
+    <sym>Flag, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="23.015309013426304" lon="53.687130846083164">
+    <ele>92</ele>
+    <time>2015-02-01T06:46:27Z</time>
+    <name>040</name>
+    <sym>Flag, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="22.998560462146997" lon="53.691007811576128">
+    <ele>155</ele>
+    <time>2015-02-01T06:46:27Z</time>
+    <name>041</name>
+    <sym>Flag, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="22.990030786022544" lon="53.690357459709048">
+    <ele>94</ele>
+    <time>2015-02-01T06:46:27Z</time>
+    <name>042 BALISE 2</name>
+    <sym>Flag, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="22.983169611543417" lon="53.708874005824327">
+    <ele>103</ele>
+    <time>2015-02-01T06:46:27Z</time>
+    <name>058</name>
+    <sym>Flag, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="22.993387319147587" lon="53.725357772782445">
+    <ele>102</ele>
+    <time>2015-02-01T06:46:27Z</time>
+    <name>059</name>
+    <sym>Flag, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="22.996302209794521" lon="53.77278140746057">
+    <ele>86</ele>
+    <time>2015-02-01T06:46:27Z</time>
+    <name>060</name>
+    <sym>Flag, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="22.991994665935636" lon="53.788975663483143">
+    <ele>98</ele>
+    <time>2015-02-01T06:46:27Z</time>
+    <name>061</name>
+    <sym>Flag, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="22.98154997639358" lon="53.794683320447803">
+    <time>2015-02-01T15:14:13Z</time>
+    <name>062</name>
+    <sym>Flag</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="22.979416698217392" lon="53.789966655895114">
+    <time>2015-02-01T15:14:13Z</time>
+    <name>063</name>
+    <sym>Flag</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="22.978199981153011" lon="53.789500035345554">
+    <time>2015-02-01T15:14:13Z</time>
+    <name>064 ARRIVEE</name>
+    <sym>Flag, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <trk>
+    <name>--Fréjus-- OR-5220339:Roc d'azur 2015</name>
+    <trkseg>  
+      <trkpt lat="43.4182" lon="6.73691">
+        <ele>1</ele>
+        <time>2015-10-09T17:30:40Z</time>
+      </trkpt>
+    </trkseg>
+  </trk>
+
+  <rte>
+    <name>LIWA 2016 100 K</name>
+    <extensions>
+      <gpxx:RouteExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:IsAutoNamed>false</gpxx:IsAutoNamed>
+        <gpxx:DisplayColor>Magenta</gpxx:DisplayColor>
+      </gpxx:RouteExtension>
+    </extensions>
+    <rtept lat="22.977616684511304" lon="53.793216655030847">
+      <ele>63</ele>
+      <time>2015-02-01T06:46:27Z</time>
+      <name>001 DEPART</name>
+      <sym>Flag</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="22.971088103950024" lon="53.792280564084649">
+      <ele>63</ele>
+      <time>2015-02-01T06:46:27Z</time>
+      <name>002</name>
+      <sym>Flag, Red</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="22.968246303498745" lon="53.775581968948245">
+      <ele>64</ele>
+      <time>2015-02-01T06:46:27Z</time>
+      <name>003</name>
+      <sym>Flag, Red</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="22.961372388526797" lon="53.771829642355442">
+      <ele>146</ele>
+      <time>2015-02-01T06:46:27Z</time>
+      <name>004</name>
+      <sym>Flag, Red</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="22.932287603616714" lon="53.752663917839527">
+      <ele>179</ele>
+      <time>2015-02-01T06:46:27Z</time>
+      <name>005</name>
+      <sym>Flag, Red</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="22.909592427313328" lon="53.738009501248598">
+      <ele>112</ele>
+      <time>2015-02-01T06:46:27Z</time>
+      <name>006</name>
+      <sym>Flag, Red</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="22.900008894503117" lon="53.731532720848918">
+      <ele>82</ele>
+      <time>2015-02-01T06:46:27Z</time>
+      <name>007</name>
+      <sym>Flag, Red</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="22.895333804190159" lon="53.716894313693047">
+      <ele>90</ele>
+      <time>2015-02-01T06:46:27Z</time>
+      <name>008</name>
+      <sym>Flag, Red</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="22.881546914577484" lon="53.710936876013875">
+      <ele>139</ele>
+      <time>2015-02-01T06:46:27Z</time>
+      <name>009</name>
+      <sym>Flag, Red</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="22.863333374261856" lon="53.690016651526093">
+      <ele>101</ele>
+      <time>2015-02-01T06:46:27Z</time>
+      <name>010 PC 1</name>
+      <sym>Flag, Red</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="22.865183763206005" lon="53.652829583734274">
+      <ele>81</ele>
+      <time>2015-02-01T06:46:27Z</time>
+      <name>011</name>
+      <sym>Flag, Red</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="22.863114774227142" lon="53.621294014155865">
+      <ele>88</ele>
+      <time>2015-02-01T06:46:27Z</time>
+      <name>012</name>
+      <sym>Flag, Red</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="22.861751625314355" lon="53.576653925701976">
+      <ele>86</ele>
+      <time>2015-02-01T06:46:27Z</time>
+      <name>013</name>
+      <sym>Flag, Red</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="22.857289183884859" lon="53.558121873065829">
+      <ele>192</ele>
+      <time>2015-02-01T06:46:27Z</time>
+      <name>014</name>
+      <sym>Flag, Red</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="22.855454133823514" lon="53.552954429760575">
+      <ele>188</ele>
+      <time>2015-02-01T06:46:27Z</time>
+      <name>015</name>
+      <sym>Flag, Red</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="22.850783318281174" lon="53.541050031781197">
+      <ele>102</ele>
+      <time>2015-02-01T06:46:27Z</time>
+      <name>016  PC 2</name>
+      <sym>Flag, Red</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="22.858856348320842" lon="53.53270199149847">
+      <ele>98</ele>
+      <time>2015-02-01T06:46:27Z</time>
+      <name>017</name>
+      <sym>Flag, Red</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="22.862529214471579" lon="53.520920807495713">
+      <ele>110</ele>
+      <time>2015-02-01T06:46:27Z</time>
+      <name>018</name>
+      <sym>Flag, Red</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="22.866569375619292" lon="53.513607094064355">
+      <ele>99</ele>
+      <time>2015-02-01T06:46:27Z</time>
+      <name>019</name>
+      <sym>Flag, Red</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="22.87932344712317" lon="53.510876521468163">
+      <ele>98</ele>
+      <time>2015-02-01T06:46:27Z</time>
+      <name>020</name>
+      <sym>Flag, Red</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="22.895023841410875" lon="53.513392517343163">
+      <ele>102</ele>
+      <time>2015-02-01T06:46:27Z</time>
+      <name>021</name>
+      <sym>Flag, Red</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="22.911366624757648" lon="53.494338942691684">
+      <ele>96</ele>
+      <time>2015-02-01T06:46:27Z</time>
+      <name>022</name>
+      <sym>Flag, Red</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="22.911008885130286" lon="53.45538136549294">
+      <ele>92</ele>
+      <time>2015-02-01T06:46:27Z</time>
+      <name>023  BALISE 1</name>
+      <sym>Flag, Red</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="22.913734093308449" lon="53.4551693033427">
+      <ele>157</ele>
+      <time>2015-02-01T06:46:27Z</time>
+      <name>024</name>
+      <sym>Flag, Red</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="22.938038678839803" lon="53.454808294773102">
+      <ele>94</ele>
+      <time>2015-02-01T06:46:27Z</time>
+      <name>025</name>
+      <sym>Flag, Red</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="22.94551600702107" lon="53.457937845960259">
+      <ele>119</ele>
+      <time>2015-02-01T06:46:27Z</time>
+      <name>026</name>
+      <sym>Flag, Red</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="22.958069248124957" lon="53.495975090190768">
+      <ele>94</ele>
+      <time>2015-02-01T06:46:27Z</time>
+      <name>027</name>
+      <sym>Flag, Red</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="22.9644166957587" lon="53.498952426016331">
+      <ele>112</ele>
+      <time>2015-02-01T06:46:27Z</time>
+      <name>028</name>
+      <sym>Flag, Red</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="22.965524448081851" lon="53.517104359343648">
+      <ele>94</ele>
+      <time>2015-02-01T06:46:27Z</time>
+      <name>029</name>
+      <sym>Flag, Red</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="22.974414378404617" lon="53.528103595599532">
+      <ele>95</ele>
+      <time>2015-02-01T06:46:27Z</time>
+      <name>030</name>
+      <sym>Flag, Red</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="22.977216700091958" lon="53.528816644102335">
+      <ele>130</ele>
+      <time>2015-02-07T04:39:48Z</time>
+      <name>031  PC 3</name>
+      <sym>Flag, Red</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="22.989637674763799" lon="53.549343589693308">
+      <ele>95</ele>
+      <time>2015-02-01T06:46:27Z</time>
+      <name>032</name>
+      <sym>Flag, Red</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="23.009883910417557" lon="53.569929962977767">
+      <ele>101</ele>
+      <time>2015-02-01T06:46:27Z</time>
+      <name>033</name>
+      <sym>Flag, Red</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="23.021155390888453" lon="53.584110047668219">
+      <ele>96</ele>
+      <time>2015-02-01T06:46:27Z</time>
+      <name>034</name>
+      <sym>Flag, Red</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="23.035763036459684" lon="53.622848941013217">
+      <ele>126</ele>
+      <time>2015-02-01T06:46:27Z</time>
+      <name>035</name>
+      <sym>Flag, Red</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="23.035462209954858" lon="53.625294864177704">
+      <ele>98</ele>
+      <time>2015-02-01T06:46:27Z</time>
+      <name>036</name>
+      <sym>Flag, Red</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="23.045868845656514" lon="53.65484937094152">
+      <ele>132</ele>
+      <time>2015-02-01T06:46:27Z</time>
+      <name>037</name>
+      <sym>Flag, Red</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="23.043280765414238" lon="53.660841593518853">
+      <ele>93</ele>
+      <time>2015-02-01T06:46:27Z</time>
+      <name>038</name>
+      <sym>Flag, Red</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="23.027966693043709" lon="53.674769969657063">
+      <ele>118</ele>
+      <time>2015-02-01T06:46:27Z</time>
+      <name>039  PC 4</name>
+      <sym>Flag, Red</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="23.015309013426304" lon="53.687130846083164">
+      <ele>92</ele>
+      <time>2015-02-01T06:46:27Z</time>
+      <name>040</name>
+      <sym>Flag, Red</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="22.998560462146997" lon="53.691007811576128">
+      <ele>155</ele>
+      <time>2015-02-01T06:46:27Z</time>
+      <name>041</name>
+      <sym>Flag, Red</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="22.990030786022544" lon="53.690357459709048">
+      <ele>94</ele>
+      <time>2015-02-01T06:46:27Z</time>
+      <name>042 BALISE 2</name>
+      <sym>Flag, Red</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="22.983169611543417" lon="53.708874005824327">
+      <ele>103</ele>
+      <time>2015-02-01T06:46:27Z</time>
+      <name>058</name>
+      <sym>Flag, Red</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="22.993387319147587" lon="53.725357772782445">
+      <ele>102</ele>
+      <time>2015-02-01T06:46:27Z</time>
+      <name>059</name>
+      <sym>Flag, Red</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="22.996302209794521" lon="53.77278140746057">
+      <ele>86</ele>
+      <time>2015-02-01T06:46:27Z</time>
+      <name>060</name>
+      <sym>Flag, Red</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="22.991994665935636" lon="53.788975663483143">
+      <ele>98</ele>
+      <time>2015-02-01T06:46:27Z</time>
+      <name>061</name>
+      <sym>Flag, Red</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="22.98154997639358" lon="53.794683320447803">
+      <time>2015-02-01T15:14:13Z</time>
+      <name>062</name>
+      <sym>Flag</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="22.979416698217392" lon="53.789966655895114">
+      <time>2015-02-01T15:14:13Z</time>
+      <name>063</name>
+      <sym>Flag</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+    <rtept lat="22.978199981153011" lon="53.789500035345554">
+      <time>2015-02-01T15:14:13Z</time>
+      <name>064 ARRIVEE</name>
+      <sym>Flag, Red</sym>
+      <extensions>
+        <gpxx:RoutePointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+          <gpxx:Subclass>000000000000FFFFFFFFFFFFFFFFFFFFFFFF</gpxx:Subclass>
+        </gpxx:RoutePointExtension>
+      </extensions>
+    </rtept>
+  </rte>
+
+</gpx>

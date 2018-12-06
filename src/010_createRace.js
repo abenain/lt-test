@@ -1,7 +1,7 @@
 const shortid = require('shortid')
 const moment = require('moment')
 
-const {createRace, enrollCompetitorsInRace} = require('./lib')
+const {createRace, enrollCompetitorsInRace, uploadTrackFileToRace} = require('./lib')
 const {eventId} = require('../config/event')
 const {manager} = require('../config/users')
 
@@ -40,6 +40,9 @@ createRace(manager, eventId, newRace)
 		console.log(`name: ${race._id}`)
 		console.log(`name: ${race.name}`)
 
+		return uploadTrackFileToRace(manager, race._id).then(() => race)
+	})
+	.then(race => {
 		return enrollCompetitorsInRace(manager, race._id, competitors)
 	})
 	.then(competitors => {
@@ -48,6 +51,7 @@ createRace(manager, eventId, newRace)
 
 		process.exit(0)
 	})
+
 	.catch(error => {
 		console.error(error)
 		process.exit(-1)
