@@ -211,6 +211,29 @@ const createRace = (userCredentials, eventId, race) => {
 		.then(({status, data}) => status === 201 && data)
 }
 
+const enrollCompetitorInRace = (userCredentials, raceId, competitor) => {
+	return getUsersWithTokens([userCredentials])
+		.then(users => users && users.length && users[0])
+		.then(userWithToken => {
+			const headers = getAuthorizationHeaderForUser(userWithToken)
+			return axios.post(`${RACE_URL}/${raceId}/competitors`, {
+				...competitor
+			}, {headers})
+		})
+		.then(({status, data}) => status === 200 && data)
+		.then(data => {
+			return data
+		})
+		.catch(() => {
+			console.error(`failed enrolling of ${competitor.number}`)
+			return null
+		})
+}
+
+const enrollCompetitorsInRace = (userCredentials, raceId, competitors) => {
+	return Promise.all(competitors.map(competitor => enrollCompetitorInRace(userCredentials, raceId, competitor)))
+}
+
 module.exports = {
 	getDetailedUsersAndRaces,
 	getInitialUsersInRacesStatus,
@@ -218,5 +241,6 @@ module.exports = {
 	getRacesMap,
 	getCompetitorTimer,
 	getViewerTimer,
-	createRace
+	createRace,
+	enrollCompetitorsInRace
 }
