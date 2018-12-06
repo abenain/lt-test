@@ -1,6 +1,6 @@
-const {TEST_DURATION_MS, NB_VIEWERS, WS_URL} = require('./config');
-const {races: raceIds} = require('./races');
-const {users: userCredentials} = require('./users');
+const {TEST_DURATION_MS, NB_VIEWERS, WS_URL} = require('../config/config');
+const {races: raceIds} = require('../config/races');
+const {users: userCredentials} = require('../config/users');
 const {getDetailedUsersAndRaces, getViewerTimer} = require('./lib');
 
 console.log(`--- starting test to simulate ${NB_VIEWERS} users viewing livetracking on ${WS_URL} (${TEST_DURATION_MS / 1000 / 60} min)`);

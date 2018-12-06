@@ -1,6 +1,6 @@
-const {TEST_DURATION_MS, WS_URL} = require('./config');
-const {races: raceIds} = require('./races');
-const {users: userCredentials} = require('./users');
+const {TEST_DURATION_MS, WS_URL} = require('../config/config');
+const {races: raceIds} = require('../config/races');
+const {users: userCredentials} = require('../config/users');
 const {getDetailedUsersAndRaces, getInitialUsersInRacesStatus, getUserTimer} = require('./lib');
 
 getDetailedUsersAndRaces(userCredentials, raceIds)

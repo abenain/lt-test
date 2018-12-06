@@ -1,6 +1,6 @@
-const {TEST_DURATION_MS, WS_URL} = require('./config');
-const {races: raceIds} = require('./races');
-const {users: userCredentials} = require('./users');
+const {TEST_DURATION_MS, WS_URL} = require('../config/config');
+const {races: raceIds} = require('../config/races');
+const {users: userCredentials} = require('./config/users');
 const {getDetailedUsersAndRaces, getRacesMap, getCompetitorTimer} = require('./lib');
 
 console.log(`--- starting livetracking test simulating positions sent by competitors on ${WS_URL} for ${TEST_DURATION_MS / 1000 / 60} min`);

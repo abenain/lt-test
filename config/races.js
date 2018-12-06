@@ -1,5 +1,5 @@
 const races = [
-	'5b9f982d540d267795bf8dfb',
+	'5bbbab01a7d8d1475c4295dd',
 ];
 
 module.exports = {races};

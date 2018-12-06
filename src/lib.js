@@ -1,6 +1,6 @@
 const axios = require('axios');
 
-const {WS_URL, USER_REPORT_PERIOD_MS, NB_CONCURRENT_POS_REPORT, PAGE_REFRESH_PERDIOD_MS, NB_CONCURRENT_COMPETITORS_QUERIED} = require('./config');
+const {WS_URL, USER_REPORT_PERIOD_MS, NB_CONCURRENT_POS_REPORT, PAGE_REFRESH_PERDIOD_MS, NB_CONCURRENT_COMPETITORS_QUERIED} = require('../config/config');
 
 const AUTH_URL 				= `${WS_URL}/auth/local`;
 const RACE_URL 				= `${WS_URL}/api/v2/races`;
