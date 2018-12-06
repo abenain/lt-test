@@ -1,5 +1,5 @@
 //const WS_URL = 'https://followracer.com';	//The website url
-const WS_URL = 'https://followracer.com';	//The website url
+const WS_URL = 'https://console.test.followracer.com';	//The website url
 //const WS_URL = 'http://localhost:9000';	//The website url
 
 const TEST_DURATION_MS = 10 * 60 * 1000;	//How long shall tests run?
