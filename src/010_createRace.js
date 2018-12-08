@@ -32,7 +32,7 @@ function getNCompetitors(nbCompetitors){
 	}))
 }
 
-const competitors = getNCompetitors(4)
+const competitors = getNCompetitors(50)
 
 createRace(manager, eventId, newRace)
 	.then(race => {

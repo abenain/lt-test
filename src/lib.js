@@ -215,7 +215,7 @@ const createRace = (userCredentials, eventId, race) => {
 		.then(({status, data}) => status === 201 && data)
 }
 
-const enrollCompetitorInRace = (userCredentials, raceId, competitor) => {
+function enrollCompetitorInRace(userCredentials, raceId, competitor){
 	return getUsersWithTokens([userCredentials])
 		.then(users => users && users.length && users[0])
 		.then(userWithToken => {
@@ -225,17 +225,18 @@ const enrollCompetitorInRace = (userCredentials, raceId, competitor) => {
 			}, {headers})
 		})
 		.then(({status, data}) => status === 200 && data)
-		.then(data => {
-			return data
-		})
 		.catch(() => {
 			console.error(`failed enrolling of ${competitor.number}`)
 			return null
 		})
 }
 
-const enrollCompetitorsInRace = (userCredentials, raceId, competitors) => {
-	return Promise.all(competitors.map(competitor => enrollCompetitorInRace(userCredentials, raceId, competitor)))
+async function enrollCompetitorsInRace(userCredentials, raceId, competitors){
+	const createdCompetitors = [];
+	for(let i=0; i<competitors.length; i++){
+		createdCompetitors.push(await enrollCompetitorInRace(userCredentials, raceId, competitors[i]))
+	}
+	return createdCompetitors
 }
 
 const TRACK_FILENAME = 'LIWA 2016 100 K_corrected.gpx'
