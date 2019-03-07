@@ -37,7 +37,7 @@ const competitors = getNCompetitors(50)
 createRace(manager, eventId, newRace)
 	.then(race => {
 		console.log(`created race:`)
-		console.log(`name: ${race._id}`)
+		console.log(`id: ${race._id}`)
 		console.log(`name: ${race.name}`)
 
 		return uploadTrackFileToRace(manager, race._id).then(() => race)
